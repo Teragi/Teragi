@@ -1,3 +1,5 @@
+<img src="https://github.com/Teragi/Teragi/blob/main/banner.png" alt="Banner">
+
 # Hello there, I'm Teragi 👋
 
 <!--
