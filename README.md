@@ -25,8 +25,8 @@ Afterwards, I heard about a training that encompassed everything related to digi
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   
   
-  ![Figma](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=purple&color=4AB197)
-  ![Inkscape](https://img.shields.io/badge/Inkscape-informational?style=flat&logo=inkscape&logoColor=black&color=4AB197)
+  ![Figma](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=purple&color=1572B6)
+  ![Inkscape](https://img.shields.io/badge/Inkscape-informational?style=flat&logo=inkscape&logoColor=black&color=1572B6)
 
 <br/>
 
